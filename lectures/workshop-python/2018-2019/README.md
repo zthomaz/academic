@@ -8,3 +8,4 @@
 4.  [Syahdilah](https://github.com/Syahdillah12)
 5.  [aaa](https://github.com/adral1234)
 6.  [Peres Gusnan Tambunan](https://github.com/peresg10179)
+7.  [Thomas Prayudhi Triutomo](https://github.com/zthomaz)
